@@ -1,0 +1,27 @@
+config.ps1
+temp/
+DIST/
+symbols/
+rne-edited-images/*
+!rne-edited-images/.gitkeep
+script_archive_steam/*
+!script_archive_steam/.gitkeep
+rne-scripts/*
+!rne-scripts/.gitkeep
+rne-scripts-git/
+models/*
+/*.zip
+/*.rar
+
+# noidget
+installer/build/*
+!installer/build/.gitkeep
+installer/deploy/
+installer/deployUninstaller/
+installer/userdata/enscriptToc.json
+installer/userdata/enscriptTocC.json
+
+# realboot
+launcher/build/*
+!launcher/build/.gitkeep
+launcher/deploy/

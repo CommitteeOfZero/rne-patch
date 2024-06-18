@@ -1,0 +1,15 @@
+[submodule "installer/noidget"]
+	path = installer/noidget
+	url = https://github.com/CommitteeOfZero/noidget.git
+	branch = master
+[submodule "launcher/realboot"]
+	path = launcher/realboot
+	url = https://github.com/CommitteeOfZero/realboot.git
+	branch = master
+[submodule "sc3tools"]
+	path = sc3tools
+	url = https://github.com/CommitteeOfZero/sc3tools.git
+	branch = main
+[submodule "LanguageBarrier"]
+	path = LanguageBarrier
+	url = https://github.com/CommitteeOfZero/LanguageBarrier.git

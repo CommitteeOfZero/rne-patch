@@ -1,0 +1,6 @@
+{
+  "__schema_version": 2,
+  "channel": "stable-steam-win32",
+  "intVersion": 12,
+  "updateCheckUrl": "https://raw.githubusercontent.com/CommitteeOfZero/rne-patch/master/update.json"
+}
